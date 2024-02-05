@@ -9,6 +9,7 @@ public class HousingDecisionMaker {
 		// Initiate scanner
 		Scanner scnr = new Scanner(System.in);
 
+		// this is the change 
 		// Initiate variables
 
 		String distanceToCampus;
